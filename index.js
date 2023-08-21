@@ -145,7 +145,7 @@ Aşağıdakileri yapmak için ismeGoreFiltrele işlevini kullanın:
    3. Dizideki tatlardan herhangi birinin filtre değerini içerip içermediğini kontrol edin.
    4. Varsa, onları yeni bir diziye ekleyin
    5. Filtrelenmiş tatları içeren yeni diziyi döndürün
-
+.
   Örneğin: ismeGoreFiltrele(orijinalTatlar, "Çikolata") çalıştırıldığında ["Çikolata", "Fındık Çikolata", "Fıstık Çikolata", "Badem Çikolata"]
 
   İPUCU - bunu çözmenize yardımcı olması için .includes yöntemini kullanabilirsiniz.
